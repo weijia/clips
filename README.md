@@ -53,7 +53,9 @@ Work in progress.
 
 ### Technical
 
-Work in progress.
+#Ref: https://www.cnblogs.com/rubekid/p/14753335.html
+npm install @vue/cli -g
+vue add electron-builder
 
 ## Community
 
