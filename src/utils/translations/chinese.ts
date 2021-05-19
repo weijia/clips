@@ -89,7 +89,7 @@ export const chinese: {
     richText: '富文本',
     runAtStartup: '开机启动',
     saveFollowingFormats: '搜索结果类型',
-    save: '救',
+    save: '保存',
     search: '搜索',
     searchType: '搜索设置',
     settings: '设置',
